@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Sajal Halder
 
-<!--
-**halder-sajal/halder-sajal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Consultant at HLB Hong Leong Bank Malaysia. I build Java and Spring Boot microservices, and I'm now integrating AI into banking systems.
 
-Here are some ideas to get you started:
+- Portfolio: [sajalhalder.com](https://sajalhalder.com)
+- LinkedIn: [halder-sajal](https://www.linkedin.com/in/halder-sajal/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+Java, Spring Boot, Microservices, Spring AI, RAG, Reactive Spring, Apache Spark, Kubernetes, Docker, PostgreSQL, Redis
+
+## Projects
+- [Spring RAG AI](https://github.com/halder-sajal/Spring_rag_ai): retrieval-augmented generation with routing and evaluator agents
+- [Hybrid Fanout Feed System](https://github.com/halder-sajal/fanout_hybrid_system): Twitter-style feed with fan-out on write and on read
+- [Banking Microservices](https://github.com/halder-sajal/banking-microservie): hexagonal architecture, API gateway, saga coordination
+- [Inventory Service](https://github.com/halal_design): hexagonal microservice withoptimistic locking
